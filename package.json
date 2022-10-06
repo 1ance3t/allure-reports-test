@@ -1,0 +1,16 @@
+{
+  "name": "cypress-allure-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.32.1",
+    "cypress": "^10.9.0"
+  }
+}
